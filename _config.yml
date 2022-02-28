@@ -11,20 +11,18 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/SaraiPechEk?t=kxHodaun1-2tPXndMQwXPQ&s=09
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/Sarai.pech.ek
+  - title: instagram
+    url: https://www.instagram.com/saraai.sin.h/
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/SaraiPech
 
 # Build settings
 markdown: kramdown
